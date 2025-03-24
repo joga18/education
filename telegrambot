@@ -1,0 +1,3 @@
+pip3 install pyTelegramBotAPI #установка апи телеграм бота
+pip3 install --upgrade pip #обновление установщика
+python3 --version #проверка установленной версии питона на маке
